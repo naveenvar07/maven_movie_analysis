@@ -10,29 +10,29 @@ Welcome to Maven Movie Analysis, a comprehensive exploration of cinema through t
 </p>
 
 ## Task Completed ##
-1 Identify primary keys and foreign keys, discussing their differences.
-2 List all actor details.
-3 Retrieve customer information from the database.
-4 List different countries present in the data.
-5 Display all active customers.
-6 List rental IDs for customers with ID 1.
-7 Display films with a rental duration greater than 5.
-8 List the total number of films with replacement cost between $15 and $20.
-9 Count unique first names of actors.
-10 Display the first 10 records from the customer table.
-11 Display the first 3 records of customers with names starting with 'b'.
-12 Display names of the first 5 movies rated 'G'.
-13 Find customers with first names starting with "a".
-14 Find customers with first names ending with "a".
-15 Display the first 4 cities starting and ending with 'a'.
-16 Find customers with first names containing "NI".
-17 Find customers with first names having "r" in the second position.
-18 Find customers with first names starting with "a" and at least 5 characters long.
-19 Find customers with first names starting with "a" and ending with "o".
-20 Get films with PG and PG-13 ratings.
-21 Get films with lengths between 50 to 100.
-22 Get the top 50 actors.
-23 Retrieve distinct film IDs from the inventory table.
+1. Identify primary keys and foreign keys, discussing their differences.
+2. List all actor details.
+3. Retrieve customer information from the database.
+4. List different countries present in the data.
+5. Display all active customers.
+6. List rental IDs for customers with ID 1.
+7. Display films with a rental duration greater than 5.
+8. List the total number of films with replacement cost between $15 and $20.
+9. Count unique first names of actors.
+10. Display the first 10 records from the customer table.
+11. Display the first 3 records of customers with names starting with 'b'.
+12. Display names of the first 5 movies rated 'G'.
+13. Find customers with first names starting with "a".
+14. Find customers with first names ending with "a".
+15. Display the first 4 cities starting and ending with 'a'.
+16. Find customers with first names containing "NI".
+17. Find customers with first names having "r" in the second position.
+18. Find customers with first names starting with "a" and at least 5 characters long.
+19. Find customers with first names starting with "a" and ending with "o".
+20. Get films with PG and PG-13 ratings.
+21. Get films with lengths between 50 to 100.
+22. Get the top 50 actors.
+23. Retrieve distinct film IDs from the inventory table.
 
 ## Technology Used ##
 . SQL
@@ -42,4 +42,6 @@ Welcome to Maven Movie Analysis, a comprehensive exploration of cinema through t
 As we draw the curtains on our Maven Movie Analysis journey, we reflect on the wealth of insights and discoveries that have enriched our understanding of cinema. From the glitz and glamour of the box office to the subtle nuances of storytelling, our exploration of film data has unveiled a captivating tapestry of art, commerce, and cultural reflection.
 
 ## Author ##
+https://github.com/naveenvar07
+Naveen Varshney (Data Analyst)
 
